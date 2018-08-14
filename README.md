@@ -1,5 +1,3 @@
 # DSC-1
 Belajar Github
-
-
-sksfjks
+14 Agustus 2018
